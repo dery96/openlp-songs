@@ -2,7 +2,9 @@
 
 Ściągamy OpenLp na nasz ulubiony system operacyjny: [OpenLp Downloads](https://openlp.org/#downloads)
 
-Przykładowy schemat pieśni (nowa pieśn -> edytuj całość)
+Przykładowy schemat pieśni (nowa pieśn -> edytuj całość).
+
+
 
 ```
 ---[Zwrotka:1]---
@@ -34,25 +36,5 @@ To mój Pan, To mój Pan, To mój Pan,  To mój Pan,
 To mój Pan 
 ```
 
-1. Najpierw wklejam tekst
-2. Wklejam chwyt dopasowuje je tak, aby sie zgadzałą z pdfem (tak, żeby literka chwytu była na tym samym poziomie co literki poniżej)
-
-np:
-G    C   a    D 
-Albowiem tak Bóg
-
-(jak przeskakujecie kursorem to chwyty są na tym samym poziomie to litera). Tak jest łatwiej dopasować te chwyty do odpowiedniego miejsca
-
-3. Jak już dopasowałem chwyty i się zgadza to naciskam prawym przyciskiem (prawy przycisk -> znaczniki formatowania -> indeks górny)
-4. Done.
 
 
-Konrad ~ slajdy od 36 do 55
-Dawid ~ slajdy od <br>56</br> do 73
-Paweł ~ slajdy od 74 do 96
-
-Każdy ma po 10 pieśni gdybyście chcieli zrobić więcej to dajcie znać
-(prezentacja ma 239 slajdów :3)
-
-Jako, że OpenLp przechowuje dane w sqllite to ja zrobiłęm eksport wszystkich pieśni do pliku, po skonczonej robocie też tak proponuje abyscie zrobili
-wtedy ja moge łatwo to importować
