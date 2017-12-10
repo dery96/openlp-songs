@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-08T14:49:26">
+  <properties>
+    <titles>
+      <title>Barankowi cześć</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>     D                        G                D<br/>/: Barankowi cześć, Barankowi cześć.<br/>                                       A7     (G, D)<br/>Barankowi cześć chwała Mu! :/x2<br/>    D  G   D G     D                                           A <br/>/: Alleluja, Alleluja! Barankowi cześć chwała Mu! :/ x2<br/>     D                         G                    D<br/>/: Jezus z Judy lew, On zwycięzcą jest, <br/>                                      A7     (A, D)<br/>On zwyciężył już diabła moc. :/ x2<br/>    D  G   D G     D                                           A <br/>/: Alleluja, Alleluja! On zwyciężył już diabła moc! :/ x2<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:34:40">
+  <properties>
+    <titles>
+      <title>Chcę Panie Wielbić Cię</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Chcę Panie wielbić Cię<br/>Bardziej z dnia na dzień/x2<br/>Szukać twarzy Twej<br/>I poznawać łaskę Twą<br/>Chcę Panie wielbić Cię</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ptaki na niebie Tobie pieśni ślą<br/>Drzewa na polach Ciebie sięgać chcą<br/>Kochać Cię i poznawać  łaskę Twą<br/>Chcę Panie wielbić Cię</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Chcę Panie szukać Cię<br/>Bardziej z dnia na dzień/x2<br/>Szukać twarzy Twej<br/>I poznawać łaskę Twą<br/>Chcę Panie szukać Cię<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Chcę Panie kochać Cię<br/>Bardziej z dnia na dzień/x2<br/>Szukać twarzy Twej<br/>I poznawać łaskę Twą<br/>Chcę Panie kochać Cię</lines>
+    </verse>
+  </lyrics>
+</song>

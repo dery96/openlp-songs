@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-09T13:35:41">
+  <properties>
+    <titles>
+      <title>4. Choćbym wszystko miał</title>
+      <title>Choćbym wszystko miał</title>
+    </titles>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="su">
+        <open>&lt;sup&gt;</open>
+        <close>&lt;/sup&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="su">                D             G                           D</tag><br/>Choćbym wszystko miał lecz nie miał Pana,<br/><tag name="su">            G                             A</tag><br/>Czyżby warto staczać życia bój?<br/><tag name="su">                G                              D</tag><br/>Gdzież me serce miało by schronienie,<br/><tag name="su">                  G            A7                     D</tag><br/>Gdzież by szczęścia mogło znaleźć zdrój?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><tag name="su">                Fis                                       G</tag><br/>Choćbym wszystko miał lecz nie miał Pana,<br/><tag name="su">                Cis7                        Fis</tag><br/>Skąd bym siłę mógł do życia brać?<br/><tag name="su">            G                              D</tag><br/>Cóż mi mogą świata czcze rozkosze,<br/><tag name="su">         G      A7                 D</tag><br/>Za mojego Pana w zamian dać? x2<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="su">                D         G                 D</tag><br/>Choćbym skarby miał i sławę świata,<br/><tag name="su">                G                                  A</tag><br/>Choćbym wielkim wpośród ludzi był,<br/><tag name="su">            G                                D</tag><br/>Jednak łodzią mą by wicher miotał<br/><tag name="su">         G             A7                        D</tag><br/>Bez ratunku w nędzy wciąż bym żył.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><tag name="su">                Fis                                        G</tag><br/>Choćbym wszystko miał lecz nie miał Pana,<br/><tag name="su">         Cis7                         Fis</tag><br/>Który na śmierć umiłował mnie,<br/><tag name="su">           G                               D</tag><br/>Któż o któż na tym szerokim świecie<br/><tag name="su">          G    A7                  D</tag><br/>Serce koił by strudzone złe? :|| x2<br/></lines>
+    </verse>
+  </lyrics>
+</song>

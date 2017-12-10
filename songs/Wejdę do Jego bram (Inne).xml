@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:50:54">
+  <properties>
+    <titles>
+      <title>Wejdę do Jego bram</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wejdę do Jego bram, z dziękczynieniem w sercu swym <br/>Pójdę przed Jego Tron, z pieśnią chwał <br/>Powiem dziś, że to jest dzień, który sprawił Pan <br/>Wciąż cieszę się, bo radość dał mi Pan  </lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Radość dał mi Pan, radość dał mi Pan  <br/>Wciąż cieszę się, bo radość dał mi Pan :/</lines>
+    </verse>
+  </lyrics>
+</song>

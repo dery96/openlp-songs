@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-09T13:34:13">
+  <properties>
+    <titles>
+      <title>6. Chwalże, ma duszo</title>
+      <title>Chwalże, ma duszo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="su">
+        <open>&lt;sup&gt;</open>
+        <close>&lt;/sup&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="su">D                   h                  fis    G                  A     D</tag><br/>Chwalże, ma duszo, Mocarza i Króla wszechświata!<br/><tag name="su">D                    h              fis          G                 A  D</tag><br/>Niech się twa prośba gorąca z podzięką przeplata!<br/><tag name="su">    D            h         fis       G        A</tag><br/>W górę się zwróć, harfo i lutnio się zbudź!<br/><tag name="su"> fis                        G          A D</tag><br/>Niech pieśń twa w niebo u lata!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="su">D                 h                fis                 G              A D</tag><br/>Chwalże Mocarza, co wszystkim tak mądrze kieruje!<br/><tag name="su">D             h                     fis         G                    A D</tag><br/>Który na skrzydłach cię orlich bezpiecznie piastuje<br/><tag name="su">D           h        fis               G                   A </tag><br/>Który ci dał w dobrach rozlicznych twój dział.<br/><tag name="su">  fis                                G     A D</tag><br/>Czy twoje serce to czuje?<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="su">D                 h                fis                 G              A D</tag><br/>Chwalże Mocarza, co cudnie cię tak ukształtował,<br/><tag name="su">D                  h              fis     G              A D</tag><br/>Zdrowiem obdarzył i drogi ci zawsze torował!<br/><tag name="su">D           h        fis            G             A</tag><br/>Z iluż to trwóg Wielki, potężny cię Bóg<br/><tag name="su">  fis                                   G	A D</tag><br/>Dziwną Swą mocą ratował!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="su">D                   h              fis             G       A    D</tag><br/>Chwalże, ma duszo, Mocarza, co ci błogosławił,<br/><tag name="su">D                 h                fis                 G              A D</tag><br/>Coć się w strumieniach miłości tak dziwnie objawił!<br/><tag name="su">D                 h                fis                 G              A D</tag><br/>Duchu mój, miej Boga w pamięci wciąż swej,<br/><tag name="su">  fis                                  G	A D</tag><br/>Byś miłość Jego rad sławił!<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="su">D                   h              fis         G                     A  D</tag><br/>Chwalże, ma duszo, Mocarza gorącym westchnieniem,<br/><tag name="su">D                   h                    fis         G             A D</tag><br/>Chwalże Go, wszystko, co żyje, z Abrama nasieniem!<br/><tag name="su">D             h         fis             G             A</tag><br/>On blaski Swe w serce twe biedne ci śle<br/><tag name="su">  fis                                  G	   A    D</tag><br/>Chwal Go na wieki swym pieniem.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

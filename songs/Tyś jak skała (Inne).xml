@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:50:22">
+  <properties>
+    <titles>
+      <title>Tyś jak skała</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jak Skała, Tyś jak wzgórze <br/>Panie nasz, Boże nasz (Alleluja!)<br/>Tyś jak wiatr w Swej naturze <br/>Tyś jest Stwórcą wszystkich nas (Alleluja!)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światłem Swym rozświetlasz drogę <br/>Która prosto wiedzie nas (Alleluja!)<br/>Tam gdzie źródło Twej miłości <br/>Gdzie radośniej płynie czas  (Alleluja!)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Allelu-allelu-ja /x4</lines>
+    </verse>
+  </lyrics>
+</song>

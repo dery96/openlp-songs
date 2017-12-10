@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-08T14:10:11">
+  <properties>
+    <titles>
+      <title>Tylko w Bogu moje jest zbawienie</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c v5</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tylko w Bogu moje jest zbawienie&lt;span style="color:red !important"FGa&lt;/span&gt;<br/>W Nim jedynie duszy ukojenie		FGC<br/>Moja chwała i skała                   FG ea<br/>W Nim pokładam mą nadzieję		dea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ufaj Mu, Kościele, w każdym czasie[---]FGa<br/>Wylewajcie przed Nim serca wasze[---]FGC<br/>Ludzie lżejsi niż tchnienie[---]FG ea<br/>Tylko w Bogu jest zbawienie[---]dea<br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Sprawiedliwy jest nasz Pan</lines>
+      <lines>FG<br/>Każdy zbierze to, co siał[---]aG</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko w Bogu moje jest zbawienie	FGa<br/>W Nim jedynie duszy ukojenie		FGC<br/>Moja chwała i skała		FG ea<br/>W Nim pokładam mą nadzieję		dea</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ufaj Mu, Kościele, w każdym czasie	FGa<br/>Wylewajcie przed Nim serca wasze	FGC<br/>Ludzie lżejsi niż tchnienie		FG ea<br/>Tylko w Bogu jest zbawienie		dea<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tylko w Bogu moje jest zbawienie	FGa<br/>W Nim jedynie duszy ukojenie		FGC<br/>Moja chwała i skała		FG ea<br/>W Nim pokładam mą nadzieję		dea<br/></lines>
+    </verse>
+  </lyrics>
+</song>

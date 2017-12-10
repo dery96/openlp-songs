@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:47:22">
+  <properties>
+    <titles>
+      <title>Będziesz miłował Boga</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będziesz miłował Boga całym sercem swoim <br/>A bliźniego swego tak jak siebie samego</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłuj Boga całym sercem swym ze wszystkich sił <br/>I całej duszy twojej</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg chce twoim życiem być<br/>On chce miłość swoją wielką dać<br/>Czyż trudno wziąć? <br/>Pamiętaj Bóg miłością jest</lines>
+    </verse>
+  </lyrics>
+</song>

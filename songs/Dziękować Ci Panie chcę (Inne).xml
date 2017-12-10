@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-08T14:35:58">
+  <properties>
+    <titles>
+      <title>Dziękować Ci Panie chcę</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:Dziękować Ci Panie chcę <br/>Dziękować, Boś Świętym jest <br/>Dziękować, Boś Jezusa Syna Swego nam dał:/2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/:A dziś słaby powie; mam Twą moc <br/>Biedny powie; wszystko mam <br/>Bo Panie Ty to dałeś nam, Ty Sam:/2x<br/><br/>Dziękować Ci chcę..</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-09T15:26:45">
+  <properties>
+    <titles>
+      <title>8. Czyż tron Twój, Panie</title>
+      <title>Czyż tron Twój, Panie</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="su">
+        <open>&lt;sup&gt;</open>
+        <close>&lt;/sup&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="su">a       d               a        E      a     E</tag><br/>Czyż tron Twój, Panie uwielbiony,  <br/><tag name="su">    a         C7         F              H   E</tag><br/>W niebie nie jest dość wspaniały,<br/><tag name="su">a       d      a         E           a      E</tag><br/>Że w głębi duszy mej skruszonej<br/><tag name="su">a           C7             F           H    E</tag><br/>Zasiąść chcesz na tronie chwały?<br/><br/><tag name="su">a     F        a  E    a              E   a</tag><br/>Mój rozum pojąć nie jest w stanie,<br/><tag name="su">F                C       F             G7  C     a        E7 a</tag><br/>Że tak jest wielkie Twe kochanie I tak cudowne.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="su">a    d      a           E             a   E</tag><br/>Czyliż to miejsca masz tak mało<br/><tag name="su">a              C7         F          H E</tag><br/>Tam w niebieskiej Twej krainie,<br/><tag name="su">a     d        a       E        a  E</tag><br/>Żeś me znikome obrał ciało<br/><tag name="su">a     C7          F            H E</tag><br/>I budujesz w nim świątynię?<br/><br/><tag name="su">a  F         a  E    a       E  a</tag><br/>Nigdy by serce nie pojęło,<br/><tag name="su">F                  C          F         G7 C          a           E7  a</tag><br/>Że w nędzy mej tak cudne dzieło Twa miłość stworzy.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="su">a    d            a             E         a  E</tag><br/>Czyliż masz, Panie, w niebie mało<br/><tag name="su">a            C7         F      H    E</tag><br/>Wojsk anielskich uwielbiania,<br/><tag name="su">a   d       a           E        a  E</tag><br/>Że Ci się jeszcze spodobało<br/><tag name="su">a           C7               F           H E</tag><br/>Słyszeć grzesznych ust śpiewania?<br/><br/><tag name="su">a      F       a  E   a      E   a</tag><br/>Nie, dla rozumu niepojęta<br/><tag name="su">F                  C         F        G7   C      a             E7 a</tag><br/>Jest Twa cudowna miłość święta w swym poniżeniu<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="su">a       d          a           E        a    E</tag><br/>Czyż jestem droższy sercu Twemu,<br/><tag name="su">a             C7      F       H    E</tag><br/>Niż Twój Syn Jednorodzony,<br/><tag name="su">a   d              a       E       a  E</tag><br/>Że na śmierć iść kazałeś Jemu,<br/><tag name="su">a         C7      F   H E</tag><br/>Byłem ja był ocalony?<br/><br/><tag name="su">a        F       a   E    a    E   a</tag><br/>Przed Tobą kajam się i korzę,<br/><tag name="su">F     C                  F        G7 C     a         E7 a</tag><br/>Gdy patrzę w to miłości morze, o Niepojęty!<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="su">a       d             a           E      a E</tag><br/>Czyż do Twej służby, Panie miły,<br/><tag name="su">a                C7      F           H E</tag><br/>Nie dość w niebie sług stanęło,<br/><tag name="su">a   d         a       E        a E</tag><br/>Że i przez moje słabe siły<br/><tag name="su">a               C7      F         H    E</tag><br/>Chcesz wykonać Swoje dzieło?<br/><br/><tag name="su">a      F           a  E    a         E   a</tag><br/>Dziwne zrządzenie Twej miłości,<br/><tag name="su">F       C          F                       G7 C  a               E7 a</tag><br/>Więc chcę Ci służyć w doczesności wszystkimi siły.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

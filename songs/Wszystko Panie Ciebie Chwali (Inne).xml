@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:32:14">
+  <properties>
+    <titles>
+      <title>Wszystko Panie Ciebie Chwali</title>
+    </titles>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Wszystko, Panie, Ciebie chwali,<br/>Ptaki, kwiaty, wicher, woda.<br/>Bo Ty wszystko masz w opiece,<br/>Wszystko Tobie się podobać chce.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Panie jestem Twoim dzieckiem,<br/>Pokochałeś mnie nad życie,<br/>Mocną ręką mnie prowadzisz,<br/>Błogosławisz mi obficie sam.</lines>
+    </verse>
+  </lyrics>
+</song>

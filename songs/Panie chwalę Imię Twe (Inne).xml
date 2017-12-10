@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:54:01">
+  <properties>
+    <titles>
+      <title>Panie chwalę Imię Twe</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie chwalę Imię Twe <br/>Wznoszę pieśni uwielbienia <br/>Zawsze jesteś blisko mnie <br/>Darzysz łaską przebaczenia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyszedłeś z nieba na świat, by drogą być <br/>Dałeś przybić się na krzyż, by grzech mój zmyć  <br/>Nie zatrzymał Ciebie grób <br/>Niebo znów ujrzało Cię <br/>Panie, chwalę imię Twe</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-09T16:00:11">
+  <properties>
+    <titles>
+      <title>9. Gdy na ten świat spoglądam</title>
+      <title>Gdy na ten świat spoglądam</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="su">
+        <open>&lt;sup&gt;</open>
+        <close>&lt;/sup&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>                   <tag name="su">G</tag>                                   <tag name="su">C</tag><br/>Gdy na ten świat spoglądam, wielki Boże, <br/><tag name="su">                      D7                                       G           D7</tag><br/>Coś stworzył go wszechmocnym Słowem Swym, <br/><tag name="su">             G                              C</tag><br/>A kiedy znów na te narody spojrzę,<br/><tag name="su">             D7                            G     D7</tag><br/>Którymi Ty wciąż opiekujesz się,<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines><tag name="su">                   G      C                    G(h e)               D (a)</tag><br/>Me serce w uwielbieniu śpiewa Ci: Jak wielkimś Ty, jak<br/><tag name="su">D7         G D</tag><br/>wielkimś Ty! x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="su">                      G                                           C</tag><br/>Gdy wznoszę wzrok ku jasnym światom w górze <br/><tag name="su">             D                                G     D7</tag><br/>I widzę gwiazd nieprzeliczony rój, <br/><tag name="su">                  G                                 C</tag><br/>Jak słońce tam i księżyc w swojej porze, <br/><tag name="su">                 D7                             G        D7</tag><br/>Spokojnie bieg wciąż odbywają swój,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="su">                       G                                      C</tag><br/>Gdy z słowem Swym stanąłeś na mej drodze, <br/><tag name="su">              D                                  G</tag><br/>O Panie mój, gdym ujrzał łaskę Twą, <br/><tag name="su">                  G                                       C</tag><br/>Co zmyła grzech, co cieszy w życia trwodze, <br/><tag name="su">                       D7                              G</tag><br/>Co w mych słabościach pomoc daje swą,<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="su">                  G                                           C</tag><br/>Gdy widzę znów, jak grzesznych wielka rzesza, <br/><tag name="su">                    D                                 G</tag><br/>Zamiast Cię czcić, Twe imię święte lży, <br/><tag name="su">             G                                  C</tag><br/>A mimo to Twa łaska się nie zmniejsza, <br/><tag name="su">                      D                              G</tag><br/>Owszem ich znosisz w cierpliwości Swej,<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="su">                 G                                  C</tag><br/>Gdy życia mię przytłacza ciężkie brzemię, <br/><tag name="su">                    D                                 G      D7</tag><br/>Gdy jest na śmierć zraniona dusza ma <br/><tag name="su">                 G                                    C   </tag>     <br/>Ojcowska Twoja dłoń, gdy ciężar zdejmie <br/><tag name="su">              D                                     G       D7</tag><br/>Pomoże nieść, co się nieznośnym zda,<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="su">                  G                                 C</tag><br/>Gdy, Panie mój, odwołasz mię ze świata, <br/><tag name="su">                D                                       G</tag><br/>Gdy olśni mię Twej chwały wiecznej blask, <br/><tag name="su">                   G                          C</tag><br/>Gdy będzie dana mi czystości szata<br/><tag name="su">             D                           G</tag><br/>I Ciebie ujrzę, Jezu, Królu łask,<br/></lines>
+    </verse>
+  </lyrics>
+</song>

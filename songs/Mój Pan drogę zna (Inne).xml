@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-07-03T22:49:40">
+  <properties>
+    <titles>
+      <title>Mój Pan drogę zna</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/Mój Pan drogę zna przez największy gąszcz <br/>Ja zaś tylko za Nim kroczę/x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Siły na dziś On daje mi <br/>O jutro już się nie troszczę <br/>Bo mój Pan drogę zna przez największy gąszcz <br/>Ja zaś tylko za Nim kroczę</lines>
+    </verse>
+  </lyrics>
+</song>

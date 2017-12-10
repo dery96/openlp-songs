@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-09T13:37:03">
+  <properties>
+    <titles>
+      <title>2. Będę wielbić Cię</title>
+      <title>Będę wielbić Cię</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="su">
+        <open>&lt;sup&gt;</open>
+        <close>&lt;/sup&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="su">	C      </tag>		<br/>Będę wielbić Cię.<br/><tag name="su">a      </tag><br/>Tak jak tego chcesz<br/><tag name="su">F                                    d          G</tag><br/>W Duchu, prawdzie chcę ukorzyć serce swe.<br/><tag name="su"> C</tag><br/>Chcę przed Tobą kłaść<br/><tag name="su">a</tag><br/>Wszystko to co mam,<br/><tag name="su">F	        d	                 G</tag><br/>Zmień co pychą jest i kłamstwem w życiu mym!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="su">d                                         G</tag><br/>Obmyj mój grzech słabość moją weź!<br/><tag name="su">F	                   G</tag><br/>Przebacz mój gniew, smutek odrzuć też!<br/><tag name="su">d                                    G</tag><br/>Daj wszystko to, czego dla mnie chcesz,<br/><tag name="su">           As^ B^ </tag><br/>Życie weź<br/><tag name="su">           As^         B G7</tag><br/>Życie weź<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

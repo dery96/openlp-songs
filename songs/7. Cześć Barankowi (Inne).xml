@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-12-10T14:21:44">
+  <properties>
+    <titles>
+      <title>7. Cześć Barankowi</title>
+      <title>Cześć Barankowi</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Inne</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="su">
+        <open>&lt;sup&gt;</open>
+        <close>&lt;/sup&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="su">A</tag>         <tag name="su">H7</tag>       <tag name="su">E</tag>      <tag name="su">E7</tag><br/>Cześć Barankowi!<br/><tag name="su">A</tag>         <tag name="su"> H7</tag>                <tag name="su">E</tag>                      <tag name="su">cis</tag><br/>Cześć Temu, który umarł za nasz grzech.<br/>          <tag name="su">fis</tag>                            <tag name="su">H7</tag><br/>Lecz po trzech dniach On z martwych powstał,<br/><tag name="su">E</tag>                       <tag name="su">cis</tag><br/>Wiecznie rządzi już!<br/>    <tag name="su">fis</tag> <tag name="su">H7</tag><br/>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="su">A</tag>         <tag name="su">H7</tag>     <tag name="su">E</tag>       <tag name="su">E7</tag><br/>Cześć Barankowi!	<br/><tag name="su">A</tag>    <tag name="su">H7</tag>               <tag name="su">E</tag>              <tag name="su">cis</tag><br/>Błogosławione imię Jego jest!<br/><tag name="su">fis</tag>                 <tag name="su">H7</tag>                        <tag name="su">E</tag>                       <tag name="su">cis</tag><br/>Każdy musi hołd Mu złożyć, każdy wyznać, że,<br/>      <tag name="su">fis</tag>     <tag name="su">H7</tag><br/>Jezus Królem jest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>      <tag name="su">E</tag> <tag name="su">A</tag>          <tag name="su">E</tag> <tag name="su">H7</tag>        <tag name="su">E</tag> <tag name="su">A</tag>          <tag name="su">E</tag> <tag name="su">H7</tag>        <tag name="su">A</tag> <tag name="su">E</tag><br/>Oto Pan, Oto Pan, Oto Pan, Oto Pan, Oto Pan, <br/>            <tag name="su">E</tag> <tag name="su">A</tag>               <tag name="su">E</tag> <tag name="su">H7</tag>              <tag name="su">E</tag> <tag name="su">A</tag>                <tag name="su">E</tag> <tag name="su">H7</tag><br/>To mój Pan, To mój Pan, To mój Pan,  To mój Pan, <br/>            <tag name="su">A</tag> <tag name="su">E</tag><br/>To mój Pan </lines>
+    </verse>
+  </lyrics>
+</song>
