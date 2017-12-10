@@ -4,7 +4,7 @@
 
 Przykładowy schemat pieśni (nowa pieśn -> edytuj całość).
 
-
+![opis działania](https://github.com/dery96/openlp-songs/blob/master/opis-dzialania.png)
 
 ```
 ---[Zwrotka:1]---
